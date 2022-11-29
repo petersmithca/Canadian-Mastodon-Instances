@@ -8,3 +8,4 @@ A list of known Canadian Mastodon instances. Ordered alphabetically
 | oceanplayground.social | A Mastodon server for Atlantic Canada |
 | ottawa.place | Mastodon instance for residents of Ottawa, Gatineau, and surrounding regions |
 | thecanadian.social | Politics,sports,current events and laughs from Canada and across the fediverse. |
+| vancity.social | Metro Vancouver's home on the Fediverse! |
